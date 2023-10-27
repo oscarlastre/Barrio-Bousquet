@@ -53,9 +53,7 @@
             <h3 class="title-box">Barrio Bousquet</h3>
             <div class="wrap-banner style-twin-default">
                 <div class="banner-item">
-
                     <img src="{{ asset('assets/images/barrioBousqued.jpg') }}">
-
                 </div>
                 <div class="banner-item">
                     <b class="box-score-title">¡Tenemos todo lo que buscas!</b>
