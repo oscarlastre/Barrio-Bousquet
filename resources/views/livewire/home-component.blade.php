@@ -53,22 +53,21 @@
             <h3 class="title-box">Barrio Bousquet</h3>
             <div class="wrap-banner style-twin-default">
                 <div class="banner-item">
-
                     <img src="{{ asset('assets/images/barrioBousqued.jpg') }}">
-
                 </div>
                 <div class="banner-item">
-                    <b class="box-score-title">¡Tenemos todo lo que buscas!</b>
-                    <span class="sub-title">Barrio Bousqued, tu lugar en el mundo</span>
-                    <p class="desc">Bousquet te ofrece el equilibrio perfecto entre lo urbano y lo campestre, fusionando la modernidad con la tradición en un ambiente sereno y acogedor. Sus amplios espacios verdes te brindan la oportunidad de disfrutar de la tranquilidad que ofrece la naturaleza, sin renunciar a la conveniencia de estar cerca de la ciudad.</p>
-
-
+                    <div class="cont-box-score">
+                        <div class="oscar-box-score equal-elem">
+                            <div>
+                                <b class="box-score-title">¡Tenemos todo lo que buscas!</b>
+                                <span class="sub-title">Barrio Bousqued, tu lugar en el mundo</span>
+                                <p class="desc">Bousquet te ofrece el equilibrio perfecto entre lo urbano y lo campestre, fusionando la modernidad con la tradición en un ambiente sereno y acogedor. Sus amplios espacios verdes te brindan la oportunidad de disfrutar de la tranquilidad que ofrece la naturaleza, sin renunciar a la conveniencia de estar cerca de la ciudad.</p>
+                            </div>
+                        </div>
+                    </div>
                 </div>
-
             </div>
-
         </div>
-    </div>
 
 
     <!--Avance de obra-->
