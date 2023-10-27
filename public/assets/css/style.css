@@ -3486,6 +3486,53 @@ vertical-align: top;
     text-align: center;
     margin: 0;
 }
+
+.cont-box-score {
+    display: inline-block;
+    border: 1px solid #e6e6e6;
+    height: auto;
+    width: auto;
+    background-color: #f5f5f5;
+    padding: 0px 0px 54px;
+}
+
+.oscar-box-score {
+    display: inline-block;
+    width: 100%;
+    padding: 25px 3px 24px 3px;
+    margin-bottom: 30px;
+}
+
+.oscar-box-score .box-score-title{
+    font-size: 20px;
+    line-height: 30px;
+    color: #333333;
+    font-weight: 700;
+    text-transform: uppercase;
+    display: block;
+    text-align: center;
+}
+.oscar-box-score .sub-title{
+    font-size: 16px;
+    line-height: 24px;
+    color: #333333;
+    font-weight: 600;
+    text-transform: uppercase;
+    display: block;
+    text-align: center;
+    margin-bottom: 28px;
+    margin-top: 14px;
+}
+.oscar-box-score .desc{
+    font-size: 14px;
+    line-height: 24px;
+    color: #666666;
+    text-align: center;
+    margin: 0;
+}
+
+
+
 .our-team-info{
     margin-bottom: 45px;
 }
